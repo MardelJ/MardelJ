@@ -10,8 +10,7 @@ I was born in Maputo-Mozambique 🇲🇿 and love coding and teach how to code.
 
 ## Contact 📫
 - Email: mardel.mjj@gmail.com
-- LinkedIn: [Mardel José Juma](https://www.linkedin.com/in/mardel-jos%C3%A9-juma-72480a207)
-- Twitter: [@mardel__](https://twitter.com/mardel__)
+- LinkedIn: [Mardel José Juma](https://www.linkedin.com/in/mardeljuma)
 
 
 <!--
